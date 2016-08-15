@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://reki-wf.com/ipas/5.0.0/LINE2-Ver0.0.1.ipa</string>
+					<string>http://reki-wf.com/ipas/6.5.0/LINE2-Ver0.0.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.reki-wf.line5002</string>
+				<string>com.reki-wf.line6502</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
