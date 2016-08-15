@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.25pp.com/ipa/jailbreak/inv_ent_final_0801.ipa</string>
+					<string>https://reki-wf.github.io/LINE-6-5-0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://reki-wf.github.io/LINE-6-5-0.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://reki-wf.github.io/LINE-6-5-0_big.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ppjb.tools.carrier.gr</string>
+				<string>com.reki-wf.line6-5-0</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>6.5.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>JailbreakApp</string>
+				<string>LINE 6-5-0</string>
 			</dict>
 		</dict>
 	</array>
