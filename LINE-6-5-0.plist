@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.reki-wf.line6-5-0</string>
 				<key>bundle-version</key>
-				<string>6.5.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
